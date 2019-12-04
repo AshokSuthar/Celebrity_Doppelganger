@@ -1,0 +1,12 @@
+## Data, Models
+Data/
+downloads/
+Model/
+temp/
+
+## Libraries, builds
+dlib/
+.idea/
+
+## text
+top_1k_actors.txt
